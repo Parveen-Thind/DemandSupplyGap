@@ -1,0 +1,9 @@
+Time_slot,Demand,Supply,GAP
+Night,1439,665,774
+Late Evening,983,378,605
+Over Night,578,279,299
+Early Evening,577,299,278
+Late Morning,845,656,189
+Afternoon,651,469,182
+Early Morning,843,673,170
+Morning,829,676,153

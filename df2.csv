@@ -1,0 +1,17 @@
+Pickup point,Time_slot,Cancelled,No Cars Available,Total
+Airport,Over Night,2,148,150
+Airport,Early Morning,8,7,15
+Airport,Morning,7,7,14
+Airport,Late Morning,22,30,52
+Airport,Afternoon,36,55,91
+Airport,Early Evening,33,224,257
+Airport,Late Evening,30,577,607
+Airport,Night,60,665,725
+City,Over Night,63,151,214
+City,Early Morning,313,163,476
+City,Morning,340,146,486
+City,Late Morning,230,159,389
+City,Afternoon,33,127,160
+City,Early Evening,24,54,78
+City,Late Evening,18,28,46
+City,Night,45,109,154
